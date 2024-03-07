@@ -24,9 +24,7 @@ Read or watch:
 ==============
 
 	1. Node JS getting started: https://nodejs.org/en/learn/getting-started/introduction-to-nodejs
-
 	2. Process API doc: https://node.readthedocs.io/en/latest/api/process/
-
 	3. Express getting started: https://expressjs.com/en/starter/installing.html
 	4. Mocha documentation: https://mochajs.org/
 	5. Nodemon documentation: https://github.com/remy/nodemon#nodemon
